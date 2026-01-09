@@ -1,6 +1,6 @@
 ✨ Hi, I'm Alexis — Entry-Level Data Scientist
 
-I’m an emerging data scientist with a creative mindset and a passion for transforming data into clear, meaningful insights. My work focuses on data analysis, statistical modeling, and machine learning, with Python as my primary tool. I bring a unique blend of analytical curiosity and more than a decade of real-world business administration experience.
+I’m a data scientist with a creative mindset and a passion for transforming data into clear, meaningful insights. My work focuses on data analysis, statistical modeling, and machine learning, with Python as my primary tool. I bring a unique blend of analytical curiosity and more than a decade of real-world business administration experience.
 
 
 🚀 About Me
