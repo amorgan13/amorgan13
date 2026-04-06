@@ -18,10 +18,13 @@ I’m a data scientist with a creative mindset and a passion for transforming da
 🎓 B.S. in Business Administration from Oklahoma State University
 
 
+
 🧰 Tech Stack
 
 Languages & Tools:
 Python • Pandas • NumPy • Matplotlib • Seaborn • Scikit-Learn • Jupyter • Git • GitHub
+
+
 
 
 🌟 What I Bring
