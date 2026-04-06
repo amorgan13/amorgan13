@@ -17,8 +17,6 @@ I’m a data scientist with a creative mindset and a passion for transforming da
 
 🎓 B.S. in Business Administration from Oklahoma State University
 
-🌱 Currently learning: SQL, Power BI, and deeper machine learning techniques
-
 
 🧰 Tech Stack
 
