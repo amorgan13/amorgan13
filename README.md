@@ -1,11 +1,11 @@
-✨ Hi, I'm Alexis — Entry-Level Data Scientist
+✨ Hi, I'm Alexis — Data Scientist
 
 I’m a data scientist with a creative mindset and a passion for transforming data into clear, meaningful insights. My work focuses on data analysis, statistical modeling, and machine learning, with Python as my primary tool. I bring a unique blend of analytical curiosity and more than a decade of real-world business administration experience.
 
 
 🚀 About Me
 
-📊 1 year of hands-on data science experience
+📊 I have hands-on data science experience through TripleTen
 
 🧪 16 portfolio projects across analysis, statistics, and machine learning
 
